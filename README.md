@@ -7,20 +7,20 @@
 
 
 ## 🎯 O objetivo:
-Lorem ipsum dolor sit amet. Et inventore exercitationem eum saepe reiciendis quo odit voluptatum? Et voluptate ipsam et officiis doloribus qui blanditiis sunt in modi similique.
+Criar um game para tratativa do Tema Diversidade e Inclusão.
 
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - 
-  - Link do repositório: LINK REPO PROJECTS G1
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T18-IN01-G01
 
 - Grupo 2 - 
-  - Link do repositório: LINK REPO PROJECTS G2
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T18-IN01-G02
 
 - Grupo 3 -  
   - Link do repositório: https://github.com/InteliProjects/2025-1A-T18-IN01-G03
 - Grupo 4 - 
-  - Link do repositório: LINK REPO PROJECTS G4
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T18-IN01-G04
 
 - Grupo 5 - 
-  - Link do repositório: LINK REPO PROJECTS G5
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T18-IN01-G05
